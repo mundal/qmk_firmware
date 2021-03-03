@@ -27,7 +27,7 @@
   #define RGBLIGHT_VAL_STEP 8
 #endif
 
-#define UNICODE_SELECTED_MODES UC_MAC
+#define UNICODE_SELECTED_MODES UC_LNX
 
 // If you are using an Elite C rev3 on the slave side, uncomment the lines below:
 #define SPLIT_USB_DETECT
